@@ -9,3 +9,11 @@ body::before {
         width:50%;
     }
 }
+
+img {
+    margin: 15px;
+}
+
+p {
+    margin: 5px;
+}
